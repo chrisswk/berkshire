@@ -1,0 +1,51 @@
+header {
+  text-align: center;
+}
+
+header h1,h2,h3,h4,h5 {
+  margin: 0 auto;
+}
+
+header span {
+  display: inline-block;
+}
+
+header span h1,h3 {
+  display: inline-block;
+}
+
+main ul#left {
+  float: left;
+  width: 50%;
+}
+
+main ul#left li {
+  margin: 35px auto;
+}
+
+main ul#right {
+  float: right;
+}
+
+main ul#right li {
+  margin: 35px auto;
+}
+
+footer {
+  float: left;
+}
+
+footer div#one {
+  text-align: center;
+}
+
+footer div#one a,p {
+  margin: 0 auto;
+}
+
+.hr {
+  height: 1px;
+  width: 100%;
+  background: #bbb;
+  margin: 15px auto;
+}
