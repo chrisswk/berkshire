@@ -1,3 +1,7 @@
+/**************
+ * HEADER
+ *************/
+
 header {
   text-align: center;
 }
@@ -13,6 +17,14 @@ header span {
 header span h1,h3 {
   display: inline-block;
 }
+
+header div#title h4{
+  display: inline-block;
+}
+
+/**************
+ * MAIN
+ *************/
 
 main ul#left {
   float: left;
@@ -30,6 +42,12 @@ main ul#right {
 main ul#right li {
   margin: 35px auto;
 }
+
+
+
+/**************
+ * FOOTER
+ *************/
 
 footer {
   float: left;
